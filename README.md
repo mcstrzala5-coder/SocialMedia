@@ -68,7 +68,7 @@
 <h1>🌟 Social Media Elzoyt 🌟</h1>
 
 <div class="social-buttons">
-    <a href="https://www.youtube.com/" target="_blank">YouTube</a>
+    <a href="https://www.youtube.com/" target="_blank">https://www.youtube.com/@ELZOyt</a>
     <a href="https://www.tiktok.com/" target="_blank">TikTok</a>
     <a href="https://discord.com/channels/TWOJ_ID_SERWERA/TWOJ_ID_KANALU" target="_blank">Discord</a>
     <a href="https://www.instagram.com/" target="_blank">Instagram</a>
